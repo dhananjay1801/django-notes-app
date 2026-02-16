@@ -15,6 +15,4 @@ A Docker project with three containers:
    ```
 3. In your browser, go to **http://localhost** or **http://localhost:8000**.
 
-## Note
-
-The `.env` file is present in the repository by choice. It only holds database config for local development and does not include sensitive personal credentials.
+## NoteThe `.env` file is present in the repository by choice. It only holds database config for local development and does not include sensitive personal credentials.
